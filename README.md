@@ -1,4 +1,4 @@
-# Diabetic Prediction using Logistic Regression - IT4060_ML_Assignment_03
+# Diabetic Prediction using Logistic Regression - IT4060_ML_Assignment_02
 
 ## Group Members
 1. Kulatilake T. T. --> IT19043456
